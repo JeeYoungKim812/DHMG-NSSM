@@ -15,6 +15,59 @@
 &nbsp;
 &nbsp;
 
+# 🧙‍♂️만든사람들
+
+## SSAFY 4기 서울 3반 A301팀
+
+### 팀명 - 오.합.지.존
+
+다섯명의 지존이 모였다. **五.合.至.尊.**
+
+### 팀원
+
+<table>
+  <tr>
+    <td align="center">
+    <img src="https://secure.gravatar.com/avatar/8d818ca9720e049554b26576590e251e?s=180&d=identicon" width="75px;" alt="이은택"/><br /><sub>서버지존<br/><b>이은택</b></sub><br />
+    </td>
+    <td>
+    💻인프라&BE개발
+    <br/>
+        <a href="https://lab.ssafy.com/s04-bigdata-sub3/s04p23a301/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&assignee_username=rudus1012" title="Code">📜 Commit Log</a>
+        <br/>
+    </td>
+    <tr>
+    <td align="center"><a href="https://github.com/sewonkimm"><img src="https://avatars.githubusercontent.com/u/30452963?v=4" width="75px;" alt="김세원"/><br /><sub>거지존<br/><b>김세원</b></sub></a><br /></td>
+    <td>
+    🎨UI디자인&FE개발
+    <br/>
+    <a href="https://lab.ssafy.com/s04-bigdata-sub3/s04p23a301/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&assignee_username=swon962" title="Code">📜 Commit Log</a>
+    </td>
+    <tr>
+    <td align="center"><img src="https://lab.ssafy.com/uploads/-/system/user/avatar/2093/avatar.png?width=90" width="75px;" alt="김지영"/><br /><sub>UI지존<br/><b>김지영</b></sub><br /> </td>
+    <td>
+    🎨UI디자인&FE개발
+    <br/>
+    <a href="https://lab.ssafy.com/s04-bigdata-sub3/s04p23a301/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&assignee_username=jiiioiyoung96" title="Code">📜 Commit Log</a>
+    </td>
+    <tr>
+    <td align="center"><img src="https://secure.gravatar.com/avatar/455ee6feb7db33aca75d87bbd37fbf59?s=180&d=identicon" width="75px;" alt="여인구"/><br /><sub>돼지존<br/><b>여인구</b></sub><br /></td>
+    <td>
+    💻BE개발
+    <br/>
+     <a href="https://lab.ssafy.com/s04-bigdata-sub3/s04p23a301/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&assignee_username=yeoingu94" title="Code">📜 Commit Log</a>       
+    </td>
+  </tr>
+    <tr>
+    <td align="center"><img src="https://secure.gravatar.com/avatar/444729ddcc1195a2e6598a378faa2ac1?s=180&d=identicon" width="75px;" alt="천창민"/><br /><sub>미소지존<br/><b>천창민</b></sub><br /></td>
+    <td>
+    💻BE개발&데이터분석
+    <br/>
+     <a href="https://lab.ssafy.com/s04-bigdata-sub3/s04p23a301/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&assignee_username=chunawoos" title="Code">📜 Commit Log</a>       
+    </td>
+  </tr>
+</table>
+
 ---
 
 &nbsp;
@@ -375,56 +428,3 @@ $ sudo vi default // 설정파일 열기
 ![image](https://user-images.githubusercontent.com/43171179/113813530-0c824d80-97ab-11eb-8765-7e1aa7592943.png)
 
 
-
-# 🧙‍♂️만든사람들
-
-## SSAFY 4기 서울 3반 A301팀
-
-### 팀명 - 오.합.지.존
-
-다섯명의 지존이 모였다. **五.合.至.尊.**
-
-### 팀원
-
-<table>
-  <tr>
-    <td align="center">
-    <img src="https://secure.gravatar.com/avatar/8d818ca9720e049554b26576590e251e?s=180&d=identicon" width="75px;" alt="이은택"/><br /><sub>서버지존<br/><b>이은택</b></sub><br />
-    </td>
-    <td>
-    💻인프라&BE개발
-    <br/>
-        <a href="https://lab.ssafy.com/s04-bigdata-sub3/s04p23a301/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&assignee_username=rudus1012" title="Code">📜 Commit Log</a>
-        <br/>
-    </td>
-    <tr>
-    <td align="center"><a href="https://github.com/sewonkimm"><img src="https://avatars.githubusercontent.com/u/30452963?v=4" width="75px;" alt="김세원"/><br /><sub>거지존<br/><b>김세원</b></sub></a><br /></td>
-    <td>
-    🎨UI디자인&FE개발
-    <br/>
-    <a href="https://lab.ssafy.com/s04-bigdata-sub3/s04p23a301/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&assignee_username=swon962" title="Code">📜 Commit Log</a>
-    </td>
-    <tr>
-    <td align="center"><img src="https://lab.ssafy.com/uploads/-/system/user/avatar/2093/avatar.png?width=90" width="75px;" alt="김지영"/><br /><sub>UI지존<br/><b>김지영</b></sub><br /> </td>
-    <td>
-    🎨UI디자인&FE개발
-    <br/>
-    <a href="https://lab.ssafy.com/s04-bigdata-sub3/s04p23a301/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&assignee_username=jiiioiyoung96" title="Code">📜 Commit Log</a>
-    </td>
-    <tr>
-    <td align="center"><img src="https://secure.gravatar.com/avatar/455ee6feb7db33aca75d87bbd37fbf59?s=180&d=identicon" width="75px;" alt="여인구"/><br /><sub>돼지존<br/><b>여인구</b></sub><br /></td>
-    <td>
-    💻BE개발
-    <br/>
-     <a href="https://lab.ssafy.com/s04-bigdata-sub3/s04p23a301/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&assignee_username=yeoingu94" title="Code">📜 Commit Log</a>       
-    </td>
-  </tr>
-    <tr>
-    <td align="center"><img src="https://secure.gravatar.com/avatar/444729ddcc1195a2e6598a378faa2ac1?s=180&d=identicon" width="75px;" alt="천창민"/><br /><sub>미소지존<br/><b>천창민</b></sub><br /></td>
-    <td>
-    💻BE개발&데이터분석
-    <br/>
-     <a href="https://lab.ssafy.com/s04-bigdata-sub3/s04p23a301/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&assignee_username=chunawoos" title="Code">📜 Commit Log</a>       
-    </td>
-  </tr>
-</table>
