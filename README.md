@@ -7,7 +7,6 @@
 <br />
 <br />
 <img src="https://img.shields.io/static/v1?label=SSAFY&message=4%EA%B8%B0&color=ff69b4">
-<img src="https://img.shields.io/static/v1?label=서울&message=3반&color=violet">
 <img src="https://img.shields.io/static/v1?label=Domain&message=Bigdata&color=blueviolet">
 <br />
 <img src="https://user-images.githubusercontent.com/30452963/113960062-d69ea100-985e-11eb-9d0a-baea4c05d0ae.png" width=720 />
@@ -59,15 +58,12 @@
 
 ## 와이어프레임
 
-> [🔗Figma에서 보기](https://www.figma.com/file/hO0uShXzagyy9WQgvnq0e0/Wireframe?node-id=243%3A1)
 
 <img src="https://user-images.githubusercontent.com/30452963/113335504-03831d80-9360-11eb-8d7a-a1ba497755a4.png" width=720 />
 
 &nbsp;
 
 ## UI 디자인
-
-> [🔗Figma에서 보기](https://www.figma.com/file/fBnCyMULsrcTRYgCc5NmWt/UI-Design?node-id=2%3A667)
 
 ### 메인 페이지
 
