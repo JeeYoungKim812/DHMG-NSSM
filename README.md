@@ -23,7 +23,7 @@
 
 다섯명의 지존이 모였다. **五.合.至.尊.**
 
-### 팀원
+### 팀원 
 
 <table>
   <tr>
@@ -179,12 +179,11 @@ SVD(특이값 분해)를 사용하여 사용자-요인, 요인-아이템 행렬�
 
 # 🍇개발환경
 
-> [📓git flow 전략](https://www.notion.so/sewonkimm/Git-13372a07ecba456eae0d1ed5637e0861)  
-> [📕git 컨벤션](https://www.notion.so/sewonkimm/Git-13372a07ecba456eae0d1ed5637e0861)  
-> [📙HTML/CSS 컨벤션](https://www.notion.so/sewonkimm/HTML-CSS-e954f3fba9f947699bb077fa4dd90b8d)  
-> [📒JS 컨벤션](https://www.notion.so/sewonkimm/ES6-JS-3c94c15d43a34c5796f676723c8700ff)  
-> [📗Spring/Java 컨벤션](https://www.notion.so/sewonkimm/Spring-Java-f5a0d05840c045b48171d79a8fae0a2e)  
-> [📘이미지파일 및 폴더명 컨벤션](https://www.notion.so/sewonkimm/452f5f37f624499b9432d2d0e7121b7a)
+> [📓git flow 전략](https://www.notion.so/Git-flow-f2543968393e496281ad13904ee5905a)  
+> [📕git 컨벤션](https://www.notion.so/Git-1e5d6572cb7842149e735f2e8fd08d73)  
+> [📙HTML/CSS 컨벤션](https://www.notion.so/HTML-CSS-81aebb8a6f744fd78289d6d00ad18cd9)  
+> [📒JS 컨벤션](https://www.notion.so/ES6-JS-c510aa0397d24713a6e8951b4497a6a3)  
+> [📗Spring/Java 컨벤션](https://www.notion.so/Spring-Java-4595141a11a84bb3bd9b585c1d3bdfa4)  
 
 &nbsp;
 &nbsp;
